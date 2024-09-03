@@ -9,6 +9,7 @@ export default function Home() {
             <label className='click' htmlFor='click'></label>
             <div className='wishes'>
               <span style={{ fontWeight: '600' }}>Happy Birthday Buraot!</span>
+              <span>haha...</span>
               <br />
               <img
                 src='/lhia.jpg'
